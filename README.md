@@ -27,36 +27,29 @@ Data exploration
 Data cleaning
 
 ### ✈️ SQL Data Analysis
-<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/High-Cloud-Airline-Analysis/blob/main/SQL%20High%20Cloud%20Airline%20Analysis/Top%20Routes.png" />
-
-
-
-
----
-
-
-
-
-## 🖼 Dashboard Screenshots
-
-
---- 
-### ✈️ Power BI  Dashboard
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/customer_behaviour_analysis/blob/main/Sql/Q1.png" />
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/customer_behaviour_analysis/blob/main/Sql/Q2.png" />
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/customer_behaviour_analysis/blob/main/Sql/Q3.png" />
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/customer_behaviour_analysis/blob/main/Sql/Q4.png" />
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/customer_behaviour_analysis/blob/main/Sql/Q5.png" />
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/customer_behaviour_analysis/blob/main/Sql/Q6.png" />
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/customer_behaviour_analysis/blob/main/Sql/Q7.png" />
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/customer_behaviour_analysis/blob/main/Sql/Q8.png" />
+<img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/customer_behaviour_analysis/blob/main/Sql/Q9.png" />
 
 ---
+
+
+
+
+
+###  Power BI  Dashboard
+--
 ### 
 [Dashboard Screenshot 1]
-<img width="1553" height="863" alt="High Cloud Airline Dashboard" src="https://github.com/user-attachments/assets/cfa71a2b-2733-4ba2-9f13-5b1dfea852c1" />
-
-
-
----
+<img width="1553" height="863" alt="High Cloud Airline Dashboard" src="https://github.com/Aadesh260102/customer_behaviour_analysis/blob/main/Power%20Bi/Customer%20Behaviour%20Dashboard.png" />
 
 --- 
-
----
-
-
 
 
 
