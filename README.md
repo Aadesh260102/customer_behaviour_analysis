@@ -1,6 +1,6 @@
 
 
-<h1 align="center" style="font-size:60px;"> Customer Behaviour Analysis</h1>
+<h1 align="center" style="font-size:60px;"> 🛍️Customer Behaviour Analysis</h1>
 
 ---
 
@@ -26,7 +26,7 @@ Data exploration
 
 Data cleaning
 
-### ✈️ SQL Data Analysis
+###  SQL Data Analysis
 <img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/customer_behaviour_analysis/blob/main/Sql/Q1.png" />
 <img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/customer_behaviour_analysis/blob/main/Sql/Q2.png" />
 <img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/customer_behaviour_analysis/blob/main/Sql/Q3.png" />
@@ -43,10 +43,8 @@ Data cleaning
 
 
 
-###  Power BI  Dashboard
+### 📈 Power BI  Dashboard
 --
-### 
-[Dashboard Screenshot 1]
 <img width="1553" height="863" alt="High Cloud Airline Dashboard" src="https://github.com/Aadesh260102/customer_behaviour_analysis/blob/main/Power%20Bi/Customer%20Behaviour%20Dashboard.png" />
 
 --- 
