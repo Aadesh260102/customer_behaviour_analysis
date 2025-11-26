@@ -25,8 +25,8 @@ Data Import
 Data exploration
 
 Data cleaning
---- 
 
+--- 
 # SQL Data Analysis
 <img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/customer_behaviour_analysis/blob/main/Sql/Q1.png" />
 <img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/customer_behaviour_analysis/blob/main/Sql/Q2.png" />
@@ -38,11 +38,10 @@ Data cleaning
 <img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/customer_behaviour_analysis/blob/main/Sql/Q8.png" />
 <img width="1508" height="842" alt="Search Carrier For Travel" src="https://github.com/Aadesh260102/customer_behaviour_analysis/blob/main/Sql/Q9.png" />
 
+
+
+
 ---
-
-
-
-
 
 # 📈 Power BI  Dashboard
 --
