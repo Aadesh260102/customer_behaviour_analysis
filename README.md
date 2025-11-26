@@ -1,6 +1,6 @@
 
 
-<h1 align="center" style="font-size:60px;"> customer_behaviour_analysis</h1>
+<h1 align="center" style="font-size:60px;"> Customer Behaviour Analysis</h1>
 
 ---
 
